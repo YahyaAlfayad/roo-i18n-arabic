@@ -1,0 +1,14 @@
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-05-31 14:41:46
+// [failed] addon create i18n --topLevelPackage org.dls.roo.i18n.arabic --locale ar --messageBundle mesages_ar.properties --projectName i18n-arabic --language arabic
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-05-31 15:10:24
+addon create i18n --locale ar --messageBundle messages_ar.properties --topLevelPackage org.dls.roo.i18n.arabic --projectName i18n-arabic --language arabic --flagGraphic arabic.png --description "arabic localization"
+perform tests
+perform clean
+perform clean
+perform tests
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-05-31 15:37:43
+perform clean
+quit
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log closed at 2014-05-31 21:18:27
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-05-31 21:48:53
+perform clean
